@@ -1,4 +1,7 @@
 # Iris-Classification
 
-LGMVIP - 1
-Iris Flowers Classification ML Project
+LGMVIP 
+
+Data Science Intern
+
+Beginner Level Task - 1 
